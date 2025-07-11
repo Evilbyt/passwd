@@ -32,3 +32,5 @@ A simple desktop GUI app built with Python’s Tkinter to check password strengt
 
    Run the GUI app:
                   python password_checker_gui.py
+
+✅ No extra dependencies — uses only built-in libraries!
